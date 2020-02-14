@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">The Evaluation</string>
+    <string name="tab_text_1">Lessen</string>
+    <string name="tab_text_2">Toevoegen</string>
+    <string name="tab_text_3">Inzicht</string>
+
+    <string name="hello_bijeenkomsten">BIJEENKOMSTEN</string>
+    <string name="hello_toevoegen">TOEVOEGEN</string>
+    <string name="hello_inzichten">INZICHTEN</string>
+
+    <string name="input_naam">Naam les</string>
+    <string name="input_datum">Datum</string>
+    <string name="input_tijd">Tijd</string>
+    <string name="input_docent">Docent naam</string>
+    <string name="les_nummer">Les nummer</string>
+    <string name="button_toevoegen">Voeg toe!</string>
+
+    <string name="default_template_name">Standaard naam klas</string>
+    <string name="default_template_date">11-10-1999</string>
+    <string name="default_template_info">Klik hier voor meer informatie</string>
+    <string name="button_default_bijeenkomst">Standaard les template</string>
+    <string name="button_terug">Terug naar home scherm</string>
+
+    <string name="input_like">Leuk!</string>
+    <string name="input_neutral">Neutraal</string>
+    <string name="input_dislike">Niet Leuk!</string>
+
+
+
+
+</resources>
