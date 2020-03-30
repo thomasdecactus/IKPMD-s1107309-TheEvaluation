@@ -1,6 +1,7 @@
 package com.example.evaluation.fragments.main;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -61,6 +62,9 @@ public class bijeenkomsten extends Fragment {
             final Button myButton = new Button(getContext());
             myButton.setText(lessons.get(i).getName());
             myButton.setId(i);
+            myButton.setTextColor(Color.parseColor("#ffffff"));
+            //myButton.setBackgroundColor(Color.parseColor("#262626"));
+
 
             final Lesson newLesson = new Lesson(lessons.get(i).getLessonID(), lessons.get(i).getName(), lessons.get(i).getDate(), lessons.get(i).getTime(), lessons.get(i).getTeacher());
 

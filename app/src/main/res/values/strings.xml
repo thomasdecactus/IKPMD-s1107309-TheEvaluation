@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">The Evaluation</string>
+    <string name="app_name">De Stoplicht evaluatie.</string>
     <string name="tab_text_1">Lessen</string>
     <string name="tab_text_2">Toevoegen</string>
     <string name="tab_text_3">Inzicht</string>
@@ -9,11 +9,11 @@
     <string name="hello_inzichten">INZICHTEN</string>
 
     <string name="input_naam">Naam les</string>
-    <string name="input_datum">Datum</string>
+    <string name="input_datum">Datum d/m/j</string>
     <string name="input_tijd">Tijd</string>
     <string name="input_docent">Docent naam</string>
     <string name="les_nummer">Les nummer</string>
-    <string name="button_toevoegen">Voeg toe!</string>
+    <string name="button_toevoegen">Toevoegen.</string>
 
     <string name="default_template_name">Standaard naam klas</string>
     <string name="default_template_date">11-10-1999</string>
